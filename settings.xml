@@ -1,0 +1,18 @@
+<Settings>
+    <Nodes>150</Nodes>
+    <Tasks>160</Tasks>
+    <Arete>200</Arete>
+    <Cost>
+        <Cmin>5</Cmin>
+        <Cmax>30</Cmax>
+    </Cost>
+    <Capacity>200</Capacity>
+    <Q>
+        <Qmin>1</Qmin>
+        <Qmax>6</Qmax>
+    </Q>
+    <Depot>
+        <Dmin>5</Dmin>
+        <Dmax>5</Dmax>
+    </Depot>
+</Settings>
